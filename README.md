@@ -1,2 +1,4 @@
-# msf-uk.github.io
-GitHub pages at https://msf-uk.github.io
+MSF-UK
+=============
+MSF work on GIS, IM and innovation. 
+http://msf-uk.github.io/
