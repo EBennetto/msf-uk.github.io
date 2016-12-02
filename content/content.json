@@ -12,6 +12,48 @@
 		"tags":["GIS", "EPI"],
 		"description":"Early Warning System for epidemiological surveillance",
 		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+	},
+	{
+		"title":"MSF outbreak management dashboard",
+		"image":"images/Map3.png",
+		"tags":["GIS", "EPI"],
+		"description":"Early Warning System for epidemiological surveillance",
+		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+	},
+	{
+		"title":"MSF Innovation Portal",
+		"image":"images/Map3.png",
+		"tags":["GIS", "EPI"],
+		"description":"Early Warning System for epidemiological surveillance",
+		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+	},
+	{
+		"title":"MSF GIS unit mapcenter",
+		"image":"images/Map3.png",
+		"tags":["GIS", "EPI"],
+		"description":"Early Warning System for epidemiological surveillance",
+		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+	},
+	{
+		"title":"NNNNNNN",
+		"image":"images/Map3.png",
+		"tags":["GIS", "EPI"],
+		"description":"Early Warning System for epidemiological surveillance",
+		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+	},
+	{
+		"title":"NNNNNNNN",
+		"image":"images/Map3.png",
+		"tags":["GIS", "EPI"],
+		"description":"Early Warning System for epidemiological surveillance",
+		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+	},
+	{
+		"title":"Kobo on RP3",
+		"image":"images/Map3.png",
+		"tags":["GIS", "EPI"],
+		"description":"Early Warning System for epidemiological surveillance",
+		"url":"https://github.com/MSF-UK/MSF-Dashboard"
 	}
 	
 ]
