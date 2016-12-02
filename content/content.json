@@ -1,10 +1,10 @@
 [
 	{
-		"title":"XXXXXXXXX",
+		"title":"MissingMaps",
 		"image":"images/missing_maps.jpg",
 		"tags":["GIS", "IM"],
-		"description":"title",
-		"url":"link"
+		"description":"MissingMaps",
+		"url":"www.missingmaps.org"
 	},
 	
 ]
