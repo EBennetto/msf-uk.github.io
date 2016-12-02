@@ -28,18 +28,18 @@
 		"url":"https://github.com/MSF-UK/MSF-Dashboard"
 	},
 	{
-		"title":"MSF GIS unit mapcenter",
+		"title":"MSF GIS unit MapCenter",
 		"image":"images/Map3.png",
-		"tags":["GIS", "EPI"],
-		"description":"Early Warning System for epidemiological surveillance",
-		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+		"tags":["GIS"],
+		"description":"MSF GIS unit and its work, restricted access",
+		"url":"https://mapcentre.msf.org/en/login"
 	},
 	{
-		"title":"NNNNNNN",
+		"title":"Kobo for MSF",
 		"image":"images/Map3.png",
-		"tags":["GIS", "EPI"],
-		"description":"Early Warning System for epidemiological surveillance",
-		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+		"tags":["MDC"],
+		"description":"Instructions in English adn French",
+		"url":"https://github.com/MSF-UK/kobo-msf/wiki/01-Welcome-&-Bienvenue"
 	},
 	{
 		"title":"NNNNNNNN",
@@ -50,10 +50,10 @@
 	},
 	{
 		"title":"Kobo on RP3",
-		"image":"images/Map3.png",
-		"tags":["GIS", "EPI"],
-		"description":"Early Warning System for epidemiological surveillance",
-		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+		"image":"images/RP3.jpeg",
+		"tags":["MDC"],
+		"description":"Instruction to install Kobo toolbox on a Raspberry Pi 3",
+		"url":"https://github.com/MSF-UK/KoboOnRP3/wiki"
 	}
 	
 ]
