@@ -2,14 +2,14 @@
 	{
 		"title":"MSF outbreak management dashboard demo",
 		"image":"images/Map3.png",
-		"tags":["GIS", "EPI"],
+		"tags":["GIS", "EPI", "Demo"],
 		"description":"A simple tool to visualise medical and more information on an outbreak, live results!",
 		"url":"http://msf-uk.github.io/MSF-Dashboard/ver_demos/cfg_msf-bentiu/"
 	},
 	{
 		"title":"MissingMaps Initiative",
 		"image":"images/missing_maps.png",
-		"tags":["GIS", "IM"],
+		"tags":["GIS", "Innovation"],
 		"description":"Putting the World's Vulnerable People on the Map",
 		"url":"http://www.missingmaps.org"
 	},
@@ -23,14 +23,14 @@
 	{
 		"title":"MSF Innovation Portal",
 		"image":"images/Map3.png",
-		"tags":["GIS", "EPI"],
+		"tags":["GIS", "Innovation"],
 		"description":"A place to exchange about MSF innovation, in the field as much as at HQ",
 		"url":"https://msf.innovationportal.eu/"
 	},
 	{
 		"title":"Idjwi Case Study",
 		"image":"images/idjwi.gif",
-		"tags":["GIS", "EPI"],
+		"tags":["GIS", "EPI", "Article", "Demo"],
 		"description":"In DR Congo, MSF conducted a mealses vaccination campain using MissingMaps data, see the article!",
 		"url":"https://www.msf.org.uk/article/drc-saving-lives-with-remote-mapping"
 	},
@@ -42,23 +42,30 @@
 		"url":"https://mapcentre.msf.org/en/login"
 	},
 	{
+		"title":"MSF Early Warning System dashboard demo",
+		"image":"images/katanga.png",
+		"tags":["GIS", "EPI", "Demo"],
+		"description":"A simple tool to visualise routine surveillance data, live results!",
+		"url":"http://msf-uk.github.io/MSF-Dashboard/ver_demos/cfg_eru-katanga/"
+	},
+	{
 		"title":"Kobo for MSF",
 		"image":"images/kobo.png",
-		"tags":["MDC"],
+		"tags":["MDC", "Learn"],
 		"description":"Instructions how to use Kobo in English adn French. An app for mobile collection data.",
 		"url":"https://github.com/MSF-UK/kobo-msf/wiki/01-Welcome-&-Bienvenue"
 	},
 	{
 		"title":"A Guide to use GIS in the field",
 		"image":"images/Map3.png",
-		"tags":["GIS"],
+		"tags":["GIS", "Learn"],
 		"description":"MapAction guide to use GIS capacities in the field",
 		"url":"http://mapaction.org/resources/fieldguide.html"
 	},
 	{
 		"title":"Kobo on RP3",
 		"image":"images/RP3.jpeg",
-		"tags":["MDC"],
+		"tags":["MDC", "Learn"],
 		"description":"Instruction to install Kobo toolbox on a Raspberry Pi 3 for local access (no internet required, for the most remotes places)",
 		"url":"https://github.com/MSF-UK/KoboOnRP3/wiki"
 	}
