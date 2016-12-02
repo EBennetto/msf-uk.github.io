@@ -1,7 +1,7 @@
 [
 	{
 		"title":"MSF outbreak management dashboard demo",
-		"image":"images/Map3.png",
+		"image":"images/bentiu.png",
 		"tags":["GIS", "EPI", "Demo"],
 		"description":"A simple tool to visualise medical and more information on an outbreak, live results!",
 		"url":"http://msf-uk.github.io/MSF-Dashboard/ver_demos/cfg_msf-bentiu/"
