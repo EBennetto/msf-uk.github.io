@@ -1,23 +1,43 @@
-<!doctype html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MSF portfolio</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/site.css"/>
+        <script   src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
+        <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-46399763-1']);
+            _gaq.push(['_trackPageview']);
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-
-  <title>The MSF GitHub projects</title>
-  <meta name="description" content="MSF">
-  <meta name="author" content="idriss">
-
-</head>
-
-
-<body>
-  Hello World!
-  <br>
-  Register your MSF innovation project 
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSciE1RLTb9WmnZqpxAeaygG9ASOMTrgM7W5svrKQZUjx_AnbA/viewform">here!</a>
-  
-  
-  
-</body>
+            (function() {
+                 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>           
+    </head>
+    <body>
+        <div class="container">
+            <div class="row header">
+                <h1>MSF-UK</h1>
+                <p class="titledesc">MSF work on GIS, IM and Innovation</p>
+                <p class="links">Twitter: <a href="https://twitter.com/MSF_uk" target="_blank">@MSF_UK</a></p>
+                <p class="links">Github: <a href="https://github.com/MSF-UK" target="_blank">MSF-UK</a></p>
+            </div>
+            <div class="row">
+                <div class="col-md-12 button-group filter-button-group">
+                    <button class="filterbutton highlight" data-filter="*">Show All</button>
+                </div>
+            </div>            
+            <div id="grid">
+                                              
+            </div>            
+        </div>
+        <script src="js/site.js"></script>
+    </body>
 </html>
