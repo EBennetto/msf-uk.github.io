@@ -1,14 +1,14 @@
 [
 	{
 		"title":"MissingMaps",
-		"image":"images/missing_maps.jpg",
+		"image":"images/missing_maps.png",
 		"tags":["GIS", "IM"],
 		"description":"MissingMaps",
 		"url":"www.missingmaps.org"
 	},
 	{
 		"title":"MSF EWS dashboard",
-		"image":"images/missing_maps.jpg",
+		"image":"images/missing_maps.png",
 		"tags":["GIS", "EPI"],
 		"description":"Early Warning System for epidemiological surveillance",
 		"url":"https://github.com/MSF-UK/MSF-Dashboard"
