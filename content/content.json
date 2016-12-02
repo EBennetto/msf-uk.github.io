@@ -8,7 +8,7 @@
 	},
 	{
 		"title":"MSF EWS dashboard",
-		"image":"images/missing_maps.png",
+		"image":"images/Map3.png",
 		"tags":["GIS", "EPI"],
 		"description":"Early Warning System for epidemiological surveillance",
 		"url":"https://github.com/MSF-UK/MSF-Dashboard"
