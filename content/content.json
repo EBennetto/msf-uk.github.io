@@ -36,7 +36,7 @@
 	},
 	{
 		"title":"Kobo for MSF",
-		"image":"images/Map3.png",
+		"image":"images/kobo.png",
 		"tags":["MDC"],
 		"description":"Instructions in English adn French",
 		"url":"https://github.com/MSF-UK/kobo-msf/wiki/01-Welcome-&-Bienvenue"
