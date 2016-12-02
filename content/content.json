@@ -29,9 +29,9 @@
 	},
 	{
 		"title":"MSF GIS unit MapCenter",
-		"image":"images/Map3.png",
+		"image":"images/mapcenter.png",
 		"tags":["GIS"],
-		"description":"MSF GIS unit and its work, restricted access",
+		"description":"MSF GIS unit and its work, restricted access to MSF personel only",
 		"url":"https://mapcentre.msf.org/en/login"
 	},
 	{
@@ -42,11 +42,11 @@
 		"url":"https://github.com/MSF-UK/kobo-msf/wiki/01-Welcome-&-Bienvenue"
 	},
 	{
-		"title":"NNNNNNNN",
+		"title":"A Guide to use GIS in the field",
 		"image":"images/Map3.png",
-		"tags":["GIS", "EPI"],
-		"description":"Early Warning System for epidemiological surveillance",
-		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+		"tags":["GIS"],
+		"description":"MapAction guide to use GIS capacities in the field",
+		"url":"http://mapaction.org/resources/fieldguide.html"
 	},
 	{
 		"title":"Kobo on RP3",
