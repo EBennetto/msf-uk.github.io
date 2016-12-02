@@ -35,13 +35,6 @@
 		"url":"https://msf.innovationportal.eu/"
 	},
 	{
-		"title":"Idjwi Case Study",
-		"image":"images/idjwi.gif",
-		"tags":["GIS", "EPI", "Article", "Demo"],
-		"description":"In DR Congo, MSF conducted a mealses vaccination campain using MissingMaps data, see the article!",
-		"url":"https://www.msf.org.uk/article/drc-saving-lives-with-remote-mapping"
-	},
-	{
 		"title":"MSF GIS unit MapCenter",
 		"image":"images/mapcenter.png",
 		"tags":["GIS"],
@@ -75,6 +68,13 @@
 		"tags":["MDC", "Learn"],
 		"description":"Instruction to install Kobo toolbox on a Raspberry Pi 3 for local access (no internet required, for the most remotes places)",
 		"url":"https://github.com/MSF-UK/KoboOnRP3/wiki"
+	},
+	{
+		"title":"Idjwi Case Study",
+		"image":"images/idjwi.gif",
+		"tags":["GIS", "EPI", "Article", "Demo"],
+		"description":"In DR Congo, MSF conducted a mealses vaccination campain using MissingMaps data, see the article!",
+		"url":"https://www.msf.org.uk/article/drc-saving-lives-with-remote-mapping"
 	}
 	
 ]
