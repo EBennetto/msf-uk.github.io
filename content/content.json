@@ -28,6 +28,13 @@
 		"url":"https://msf.innovationportal.eu/"
 	},
 	{
+		"title":"Idjwi Case Study",
+		"image":"images/idjwi.gif",
+		"tags":["GIS", "EPI"],
+		"description":"In DR Congo, MSF conducted a mealses vaccination campain using MissingMaps data, see the article!",
+		"url":"https://www.msf.org.uk/article/drc-saving-lives-with-remote-mapping"
+	},
+	{
 		"title":"MSF GIS unit MapCenter",
 		"image":"images/mapcenter.png",
 		"tags":["GIS"],
