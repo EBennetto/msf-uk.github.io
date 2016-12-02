@@ -15,8 +15,8 @@
 	},
 	{
 		"title":"MSF dashboards source code",
-		"image":"images/Map3.png",
-		"tags":["GIS", "EPI"],
+		"image":"images/code.png",
+		"tags":["GIS", "EPI", "JS"],
 		"description":"Source code for all MSF Dashboards and so more",
 		"url":"https://github.com/MSF-UK/MSF-Dashboard"
 	},
