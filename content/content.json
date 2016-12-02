@@ -1,24 +1,24 @@
 [
 	{
-		"title":"MSF dashboards source code",
-		"image":"images/Map3.png",
-		"tags":["GIS", "EPI"],
-		"description":"Early Warning System for epidemiological surveillance",
-		"url":"https://github.com/MSF-UK/MSF-Dashboard"
-	},
-	{
-		"title":"MissingMaps Initiative",
-		"image":"images/missing_maps.png",
-		"tags":["GIS", "IM"],
-		"description":"MissingMaps",
-		"url":"http://www.missingmaps.org"
-	},
-	{
 		"title":"MSF outbreak management dashboard demo",
 		"image":"images/Map3.png",
 		"tags":["GIS", "EPI"],
 		"description":"Early Warning System for epidemiological surveillance",
 		"url":"http://msf-uk.github.io/MSF-Dashboard/ver_demos/cfg_msf-bentiu/"
+	},
+	{
+		"title":"MissingMaps Initiative",
+		"image":"images/missing_maps.png",
+		"tags":["GIS", "IM"],
+		"description":"Putting the World's Vulnerable People on the Map",
+		"url":"http://www.missingmaps.org"
+	},
+	{
+		"title":"MSF dashboards source code",
+		"image":"images/Map3.png",
+		"tags":["GIS", "EPI"],
+		"description":"Early Warning System for epidemiological surveillance",
+		"url":"https://github.com/MSF-UK/MSF-Dashboard"
 	},
 	{
 		"title":"MSF Innovation Portal",
