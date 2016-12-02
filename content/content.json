@@ -21,6 +21,13 @@
 		"url":"https://github.com/MSF-UK/MSF-Dashboard"
 	},
 	{
+		"title":"MapSwipe",
+		"image":"images/mapswipe.jpg",
+		"tags":["GIS", "Innovation"],
+		"description":"With every swipe and tap, you help put families on the map",
+		"url":"http://mapswipe.org/"
+	},
+	{
 		"title":"MSF Innovation Portal",
 		"image":"images/Map3.png",
 		"tags":["GIS", "Innovation"],
