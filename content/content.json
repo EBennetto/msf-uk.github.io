@@ -3,7 +3,7 @@
 		"title":"MSF outbreak management dashboard demo",
 		"image":"images/Map3.png",
 		"tags":["GIS", "EPI"],
-		"description":"Early Warning System for epidemiological surveillance",
+		"description":"A simple tool to visualise medical and more information on an outbreak, live results!",
 		"url":"http://msf-uk.github.io/MSF-Dashboard/ver_demos/cfg_msf-bentiu/"
 	},
 	{
@@ -17,15 +17,15 @@
 		"title":"MSF dashboards source code",
 		"image":"images/Map3.png",
 		"tags":["GIS", "EPI"],
-		"description":"Early Warning System for epidemiological surveillance",
+		"description":"Source code for all MSF Dashboards",
 		"url":"https://github.com/MSF-UK/MSF-Dashboard"
 	},
 	{
 		"title":"MSF Innovation Portal",
 		"image":"images/Map3.png",
 		"tags":["GIS", "EPI"],
-		"description":"Early Warning System for epidemiological surveillance",
-		"url":"https://github.com/MSF-UK/MSF-Dashboard"
+		"description":"A place to exchange about MSF innovation, in the field as much as at HQ",
+		"url":"https://msf.innovationportal.eu/"
 	},
 	{
 		"title":"MSF GIS unit MapCenter",
@@ -38,7 +38,7 @@
 		"title":"Kobo for MSF",
 		"image":"images/kobo.png",
 		"tags":["MDC"],
-		"description":"Instructions in English adn French",
+		"description":"Instructions how to use Kobo in English adn French. An app for mobile collection data.",
 		"url":"https://github.com/MSF-UK/kobo-msf/wiki/01-Welcome-&-Bienvenue"
 	},
 	{
@@ -52,7 +52,7 @@
 		"title":"Kobo on RP3",
 		"image":"images/RP3.jpeg",
 		"tags":["MDC"],
-		"description":"Instruction to install Kobo toolbox on a Raspberry Pi 3",
+		"description":"Instruction to install Kobo toolbox on a Raspberry Pi 3 for local access (no internet required, for the most remotes places)",
 		"url":"https://github.com/MSF-UK/KoboOnRP3/wiki"
 	}
 	
