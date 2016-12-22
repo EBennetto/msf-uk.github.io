@@ -41,7 +41,7 @@ $special = $event.special.debouncedresize = {
 			dispatch() :
 			resizeTimeout = setTimeout( dispatch, $special.threshold );
 	},
-	threshold: 150
+	threshold: 100
 };
 
 })(jQuery);
