@@ -84,6 +84,13 @@
 		"url":"https://remit.oca.msf.org/"
 	},
 	{
+		"title":"Innovation blog",
+		"image":"images/iv.png",
+		"tags":["Article", "Innovation"],
+		"description":"IV holder for Land Cruisers",
+		"url":"http://blogs.msf.org/en/staff/blogs/msf-innovation/innovation-blog-iv-fluids-for-land-cruisers-the-problem"
+	}
+	{
 		"title":"Idjwi Case Study",
 		"image":"images/idjwi.gif",
 		"tags":["GIS", "EPI", "Article", "Demo"],
