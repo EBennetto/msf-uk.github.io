@@ -7,6 +7,12 @@
 		"url":"http://msf-uk.github.io/MSF-Dashboard/ver_demos/cfg_msf-bentiu/"
 	},
 	{
+		"title":"GIS online training",
+		"image":"images/training.png",
+		"tags":["GIS", "Innovation"],
+		"description":"Open training on GIS with QGIS, contact us for login details",
+		"url":"http://34.249.193.243/?redirect=0"
+	},{
 		"title":"MissingMaps Initiative",
 		"image":"images/missing_maps.png",
 		"tags":["GIS", "Innovation"],
